@@ -17,3 +17,5 @@ The output will be in the file call AI_music.mid.
 
 For any queries or comments please use this forum: https://github.com/gopi-suvanam/ai-workshop/discussions/1.
 
+Acknowledgement: ideas the music generation are taken from https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/.
+
