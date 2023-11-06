@@ -4,6 +4,8 @@ The code here contains:
 1. Linear regression model for predicting sequences
 2. Deep learning model for generating music
 
+These notebooks can be run on local machine or Google colab. For running in colab the files and data has to be transfered to the cloud. 
+
 To run the music generation note book you need:
 1. music21 library
 2. pandas library
