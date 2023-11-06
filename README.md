@@ -13,4 +13,5 @@ To run the music generation note book you need:
 Download midi files of music for training the model (for example from here: https://bitmidi.com/). Store them in a folde called music/ in the main folder from where the notebook is started.
 The output will be in the file call AI_music.mid.
 
-For any queries raise and issue in this repo.
+For any queries or comments please use this forum: https://github.com/gopi-suvanam/ai-workshop/discussions/1.
+
